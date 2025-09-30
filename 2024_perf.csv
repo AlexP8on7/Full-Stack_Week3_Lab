@@ -1,0 +1,2 @@
+ticker,buy_date,buy_price,adj_close_pct_below_ma,sell_price,sell_date,percentage_gain,trading_days,sell_reason
+ALB,2024-08-12,74.4483413696289,31.410936907297703,100.4654312133789,2024-10-04,34.94650030492638,38,Above MA
