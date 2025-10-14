@@ -1,0 +1,26 @@
+STRATEGY DESCRIPTION:
+We are using Adj Closes that are 30% below the 100MA to create buy signals, and sell signals are created when 100MA crossovers occur, more than 40 days have elapsed, or we reach the end of the year.
+
+PROMPT USED:
+Create a trading strategy optimizer that tests multiple moving average periods (50, 100, 200), buy thresholds (70%-90% below MA), and maximum holding periods (30-60 days). Optimize on 2024 data and backtest from 2014-2025. Use compound returns for performance measurement.
+
+PERFORMANCE OVER 12 YEARS:
+Finished processing year 2025. Compounded gain: 261.22%
+Finished processing year 2024. Compounded gain: 34.95%
+Finished processing year 2023. Compounded gain: 108.36%
+Finished processing year 2022. Compounded gain: -4.68%
+Finished processing year 2021. Compounded gain: 0.00%
+Finished processing year 2020. Compounded gain: 114624.30%
+Finished processing year 2019. Compounded gain: 119.56%
+Finished processing year 2018. Compounded gain: -9.08%
+Finished processing year 2017. Compounded gain: 0.00%
+Finished processing year 2016. Compounded gain: 65.51%
+Finished processing year 2015. Compounded gain: 31.73%
+Finished processing year 2014. Compounded gain: 24.74%
+
+Total compound return: 6029712.76%
+Compound multiplier: 60298.128
+
+S&P 500 COMPARISON:
+S&P 500 compound return (2014-2025): 345.36%
+Strategy vs S&P 500: 1,353,814.33% outperformance
